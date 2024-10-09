@@ -1,4 +1,4 @@
-# Bike Sharing Data Analysis
+# Bike Sharing Data Analysis 🚲
 
 ## Deskripsi
 Proyek ini bertujuan untuk melakukan analisis data pada dataset bike sharing. Analisis ini mencakup Data Wrangling, EDA (Exploratory Data Analysis), Data Visualisation, dan Pembuatan Dashboard. Aplikasi ini telah di-deploy dan dapat diakses melalui link berikut : https://bike-sharing-analysis-danendra.streamlit.app/.
